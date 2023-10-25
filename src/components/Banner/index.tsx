@@ -1,6 +1,11 @@
-import { Box, Flex, Heading, Text } from "@chakra-ui/react";
+'use client';
+
+import { Box, Flex, Heading, Image, Text, useBreakpointValue } from "@chakra-ui/react";
 
 export function Banner() {
+
+    const isDesktop = useBreakpointValue({ base: false, lg: true })
+
     return (
         <Flex
             w="100%"
@@ -12,9 +17,8 @@ export function Banner() {
         >
             <Flex justifyContent="space-evenly" w="100%">
                 <Box
-                    pt={[28,
-                        5,
-                        20]}
+                    pt={["28px", "112px"]}
+                    px={["16px", "0px"]}
                 >
                     <Heading
                         color="blackAlpha.50"
@@ -33,16 +37,18 @@ export function Banner() {
                     </Text>
                 </Box>
 
+                {isDesktop && (
+                    <Image
+                        w="417px"
+                        h="276px"
+                        src="/images/airplane.svg"
+                        alt="Avião amarelo voando com algumas nuvens ao redor."
+                        mt="95px"
+                        transform="rotate(3deg)"
 
-                <Flex w="417px"
-                    h={["163px", "250px", "250px", "276px"]}
-                    bgImage="url('/images/airplane.svg')"
-                    bgRepeat="no-repeat"
-                    bgSize="cover"
-                    mt="80px"
-                    transform="rotate(3deg)"
-                >
-                </Flex>
+                    />
+
+                )}
             </Flex>
         </Flex>
     )
