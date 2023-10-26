@@ -22,7 +22,8 @@ export const theme = extendTheme({
             '650': '#47585B'
         },
         gray: {
-            '300': '#DADADA'
+            '300': '#DADADA',
+            '500': '#999'
         },
         yellow: {
             '200': '#FFBA08'
