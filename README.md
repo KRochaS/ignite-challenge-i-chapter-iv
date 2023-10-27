@@ -37,15 +37,17 @@ Application developed using ReactJS and Next.js, with the central goal of adheri
 ## 📱: Mobile Layout
  
 <p align="center">
-<!--   <img src="https://github.com/KRochaS/ignite-challenge-i-chapter-iv/blob/master/.github/screenshot-01.png" width="986" >
-  <img src="https://github.com/KRochaS/ignite-challenge-i-chapter-iv/blob/master/.github/screenshot-02.png" width="986" > -->
+  <img src="https://github.com/KRochaS/ignite-challenge-i-chapter-iv/blob/master/.github/screenshot-03.png" width="386" >
+ <img src="https://github.com/KRochaS/ignite-challenge-i-chapter-iv/blob/master/.github/screenshot-04.png" width="148" >
 </p>
+
+
 
 ### Notion Challenge 
 
 The description of the challenge can be found at:
 
 <a href="https://efficient-sloth-d85.notion.site/Desafio-01-Interface-com-Chakra-UI-d1274f7fd7f54283b9173b7fd8003cc6">
-  <img src="https://img.shields.io/badge/Notion%20%20-PTBR-%47585B">
+  <img src="https://img.shields.io/badge/Notion%20%20-PTBR-47585B">
 </a>
 
