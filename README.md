@@ -18,6 +18,7 @@
 </p>
 
 ## :bar_chart: About
+Application developed using ReactJS and Next.js, with the central goal of adhering to the provided Figma layout. Applying responsiveness and utilizing a declarative interface with the Chakra UI framework.
 
 ## :books: Tecnologias e libs  
 
