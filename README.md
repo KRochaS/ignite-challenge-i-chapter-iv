@@ -1,40 +1,50 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<p align="center">
+  <img src="https://github.com/KRochaS/ignite-challenge-i-chapter-iv/blob/master/.github/ignite-reactjs.svg" width="470" > 
+</p>
+<p align="center">
+  <img src="https://github.com/KRochaS/ignite-challenge-i-chapter-iv/blob/master/.github/logo.svg" width="270" > 
+</p>
+<p align="center">
+  <img src="https://github.com/KRochaS/ignite-challenge-i-chapter-iv/blob/master/.github/challenge.svg" width="160" > 
+</p>
 
-First, run the development server:
+<p align="center">	
+   <img src="https://img.shields.io/badge/-ReactJS-47585B?style=flat&logoColor=white" />
+  
+   <img src="https://img.shields.io/badge/-NextJS v13-47585B?style=flat&logoColor=white" />
+   
+   <img src="https://img.shields.io/badge/-ChakraUI-47585B?style=flat&logoColor=white" />
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## :bar_chart: About
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## :books: Tecnologias e libs  
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- [React](https://pt-br.reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Chakra UI](https://chakra-ui.com/)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## :computer: Desktop Layout
+ 
+<p align="center">
+  <img src="https://github.com/KRochaS/ignite-challenge-i-chapter-iv/blob/master/.github/screenshot-01.png" width="986" >
+  <img src="https://github.com/KRochaS/ignite-challenge-i-chapter-iv/blob/master/.github/screenshot-02.png" width="986" >
+</p>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## 📱: Mobile Layout
+ 
+<p align="center">
+<!--   <img src="https://github.com/KRochaS/ignite-challenge-i-chapter-iv/blob/master/.github/screenshot-01.png" width="986" >
+  <img src="https://github.com/KRochaS/ignite-challenge-i-chapter-iv/blob/master/.github/screenshot-02.png" width="986" > -->
+</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### Notion Challenge 
 
-## Learn More
+The description of the challenge can be found at:
 
-To learn more about Next.js, take a look at the following resources:
+<a href="https://efficient-sloth-d85.notion.site/Desafio-01-Interface-com-Chakra-UI-d1274f7fd7f54283b9173b7fd8003cc6">
+  <img src="https://img.shields.io/badge/Notion%20%20-PTBR-%47585B">
+</a>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
